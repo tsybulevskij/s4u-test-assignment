@@ -1,0 +1,8 @@
+*.pyc
+.idea/
+tmp/
+env/
+*.sqlite3
+settings_local.py
+
+node_modules/
